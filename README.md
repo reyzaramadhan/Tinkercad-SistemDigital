@@ -157,9 +157,6 @@ Gerbang XNOR adalah kebalikan dari XOR. Output HIGH jika **kedua input bernilai 
 ---
 
 ## Anggota Kelompok
-
-| No | Nama |
-|----|------|-----|-------------------|
 | 1 | Reyza Ramadhan 
 | 2 | Yona Okadino Saputra
 | 3 | De' riffa Aditya Nugroho
