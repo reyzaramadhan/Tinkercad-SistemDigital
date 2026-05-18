@@ -2,7 +2,7 @@
 
 > Proyek ini merupakan hasil eksplorasi 7 gerbang logika menggunakan platform simulasi **Tinkercad Circuits**.
 
-🔗 **Link Tinkercad: (https://www.tinkercad.com/things/kEKnP0JXo6c-powerful-kasi?sharecode=lxv0o_qQVZoQKBzp8AwTjg4a2ZMwKZkND34xMsRuhQk)
+Link Tinkercad: (https://www.tinkercad.com/things/kEKnP0JXo6c-powerful-kasi?sharecode=lxv0o_qQVZoQKBzp8AwTjg4a2ZMwKZkND34xMsRuhQk)
 
 
 ## Daftar Isi
@@ -21,7 +21,7 @@ Gerbang logika (logic gate) adalah komponen dasar dalam sistem digital yang beke
 
 ---
 
-## 🔧 Komponen yang Digunakan
+## Komponen yang Digunakan
 
 | Komponen | Keterangan |
 |----------|------------|
@@ -89,7 +89,7 @@ Gerbang XNOR adalah kebalikan dari XOR. Output HIGH jika **kedua input bernilai 
 
 ---
 
-## 📸 Dokumentasi Rangkaian
+## Dokumentasi Rangkaian
 
 ### Tampilan Keseluruhan Rangkaian di Tinkercad
 
@@ -156,7 +156,7 @@ Gerbang XNOR adalah kebalikan dari XOR. Output HIGH jika **kedua input bernilai 
 
 ---
 
-## 👥 Anggota Kelompok
+## Anggota Kelompok
 
 | No | Nama |
 |----|------|-----|-------------------|
